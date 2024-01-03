@@ -1,0 +1,23 @@
+.primary_btn{
+    padding: 1rem .68rem;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    min-width: 11rem;
+    border-radius: .5rem;
+    cursor: pointer;
+}
+.secondary_btn{
+    padding: 1rem .68rem;
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    width: 100%;
+    cursor : pointer;
+}
